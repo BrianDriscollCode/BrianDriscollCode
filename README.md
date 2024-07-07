@@ -1,7 +1,7 @@
-## Hi, I'm Brian!
-### Frontend Developer | I Make Full-Stack Applications and 3D Games as a Hobby
+# Hi, I'm Brian!
+## Frontend Developer | I Make Full-Stack Applications and 3D Games as a Hobby
 
-#### **** Software Development Projects
+### ⚡ Software Development Projects
 -----
 - Martial Arts Gym Website
   - [Website made with React and Typescript](https://fitness-webkit.vercel.app/)
@@ -10,7 +10,7 @@
 - VueReference (Vue Documentation and Blogging Website)
   - [Website with blogs, documentation, and email list made in Vue and Nuxt](https://vuereference.com/)
  -----
- #### 🌱 Popular Videos
+ ### 🌱 Popular Videos
  - Auth in Vue 3
    - [Vue 3 Authentication with Supabase](https://www.youtube.com/watch?v=TXaL_S0TDSg&t=904s)
 - Props and Emitters in Vue 3
