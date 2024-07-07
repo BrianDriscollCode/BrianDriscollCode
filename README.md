@@ -3,12 +3,12 @@
 
 #### ⚡ Software Development Projects
 -----
-- VueReference (Vue Documentation and Blogging Website)
-  - [Website with blogs, documentation, and email list made in Vue and Nuxt](https://vuereference.com/)
 - Martial Arts Gym Website
   - [Website made with React and Typescript](https://fitness-webkit.vercel.app/)
 - Boxing Ecommerce Website
   - [Ecommerce website made with React, Redux, AWS RDS, and MySQL](https://title-boxing-store.vercel.app/#)
+- VueReference (Vue Documentation and Blogging Website)
+  - [Website with blogs, documentation, and email list made in Vue and Nuxt](https://vuereference.com/)
 <!--
 **BrianDriscollCode/BrianDriscollCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
