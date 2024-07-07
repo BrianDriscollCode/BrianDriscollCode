@@ -10,9 +10,8 @@
 - VueReference (Vue Documentation and Blogging Website)
   - [Website with blogs, documentation, and email list made in Vue and Nuxt](https://vuereference.com/)
  -----
- Raycast targeting![image](https://github.com/BrianDriscollCode/BrianDriscollCode/assets/67210898/4ee46df7-26e2-40cf-907d-da33a1f49b48)
 
- ### 🌱 Popular Videos
+ ### :tv: Popular Videos
  - Auth in Vue 3
    - [Vue 3 Authentication with Supabase](https://www.youtube.com/watch?v=TXaL_S0TDSg&t=904s)
 - Props and Emitters in Vue 3
