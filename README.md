@@ -2,8 +2,9 @@
 ### Frontend Developer, Learning Backend and 3D Game Development Hobbyist
 
 #### ⚡ Software Development Projects
-<br>
-- test 1
+-----
+- VueReference (Vue Documentation and Blogging Website)
+- - test
 <!--
 **BrianDriscollCode/BrianDriscollCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
