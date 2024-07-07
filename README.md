@@ -1,5 +1,9 @@
-## My name is Brian Driscoll and I Create Web Applications!
+## Hi, I'm Brian!
+### Frontend Developer, Learning Backend and 3D Game Development Hobbyist
 
+#### ⚡ Software Development Projects
+
+- test 1
 <!--
 **BrianDriscollCode/BrianDriscollCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
