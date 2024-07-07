@@ -4,7 +4,7 @@
 #### ⚡ Software Development Projects
 -----
 - VueReference (Vue Documentation and Blogging Website)
-- - test
+  - [Website with blogs, documentation, and email list](https://vuereference.com/)
 <!--
 **BrianDriscollCode/BrianDriscollCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
