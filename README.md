@@ -1,5 +1,5 @@
 ## Hi, I'm Brian!
-### Frontend Developer, Learning Backend and 3D Game Development Hobbyist
+### Frontend Developer | I made Full-Stack Applications and 3D Games as a Hobby
 
 #### ⚡ Software Development Projects
 -----
