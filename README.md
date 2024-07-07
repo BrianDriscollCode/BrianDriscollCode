@@ -1,7 +1,7 @@
 ## Hi, I'm Brian!
 ### Frontend Developer | I Make Full-Stack Applications and 3D Games as a Hobby
 
-#### ⚡ Software Development Projects
+#### **** Software Development Projects
 -----
 - Martial Arts Gym Website
   - [Website made with React and Typescript](https://fitness-webkit.vercel.app/)
