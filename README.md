@@ -21,6 +21,11 @@
    - [Vue 3 Authentication with Supabase](https://www.youtube.com/watch?v=TXaL_S0TDSg&t=904s)
 - Props and Emitters in Vue 3
    - [Showing the basics of props and emitters](https://www.youtube.com/watch?v=VLQLd_Xy8Zc&t=41s)
+ 
+### ⌚ Algorithm Learning and Practice
+- Data Structures and Algorithms in Java
+  - [DS and Algo Project](https://github.com/BrianDriscollCode/DataStructuresAndAlgorithms/tree/main/src)
+
 <!--
 **BrianDriscollCode/BrianDriscollCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
