@@ -3,9 +3,6 @@
 
 ### ⚡ Software Development Projects
 -----
-- Martial Arts Gym Website
-  - [Website made with React and Typescript](https://fitness-webkit.vercel.app/)
-  - [Repo](https://github.com/BrianDriscollCode/martial-arts-gym-webkit)
 - Boxing Ecommerce Website
   - [Ecommerce website made with React, Redux, AWS RDS, and MySQL](https://title-boxing-store.vercel.app/#)
   - [Repo](https://github.com/BrianDriscollCode/title_boxing_store)
