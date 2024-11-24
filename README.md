@@ -9,8 +9,8 @@
 - VueReference (Vue Documentation and Blogging Website)
   - [Website with blogs, documentation, and email list made in Vue and Nuxt](https://vuereference.com/)
   - [Repo](https://github.com/BrianDriscollCode/Vue-Documentation-Nuxt3-Rebuild)
-- Test Taking Application (In Progress)
-  - [Application for creating tests, taking tests, and tracking scores (Only Github Repo)](https://github.com/BrianDriscollCode/TestTakerApplication)
+- Full Stack Study Application (In Progress - School Capstone Project)
+  - Authentication, authorization, database, Vue Frontend, Java Spring Boot Backend, JPA Entities, API
  -----
 
  ### :tv: Popular Videos
