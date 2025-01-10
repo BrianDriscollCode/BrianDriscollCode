@@ -1,5 +1,5 @@
 # Hi, I'm Brian!
-## Software Engineer | Creating Full-Stack Applications Professionally and 3D Games as a Hobby
+## Software Engineer | Creating Full-Stack Applications and Deploying them to the Cloud
 
 ### ⚡ Software Development Projects
 -----
