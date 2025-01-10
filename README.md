@@ -3,8 +3,8 @@
 
 ### ⚡ Software Development Projects
 -----
-- Full Stack Study Application
-  - [Authentication, authorization, database, Vue Frontend, Java Spring Boot Backend, JPA Entities, API](https://serialstudierv4.salmonsand-395171ce.westus.azurecontainerapps.io/#/)
+- Seriel Studier (Full Stack Study Automation Application)
+  - [Web application with Authentication, authorization, database, Vue Frontend, Java Spring Boot Backend, JPA Entities, API, Open AI](https://serialstudierv4.salmonsand-395171ce.westus.azurecontainerapps.io/#/)
   - [Repo](https://github.com/BrianDriscollCode/LearningToolCapstone)
 - VueReference (Vue Documentation and Blogging Website)
   - [Website with blogs, documentation, and email list made in Vue and Nuxt](https://vuereference.com/)
