@@ -4,7 +4,7 @@
 ### ⚡ Software Development Projects
 -----
 - Seriel Studier (Full Stack Study Automation Application)
-  - [Web application with Authentication, authorization, database, Vue Frontend, Java Spring Boot Backend, JPA Entities, API, Open AI]([https://serialstudierv4.salmonsand-395171ce.westus.azurecontainerapps.io/#/](https://onevistastudio.com/building-a-study-automation-platform/))
+  - [Web application with Authentication, authorization, database, Vue Frontend, Java Spring Boot Backend, JPA Entities, API, Open AI](https://onevistastudio.com/building-a-study-automation-platform/)
   - [Repo](https://github.com/BrianDriscollCode/LearningToolCapstone)
 - VueReference (Vue Documentation and Blogging Website)
   - [Website with blogs, documentation, and email list made in Vue and Nuxt](https://vuereference.com/)
