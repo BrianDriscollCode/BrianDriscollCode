@@ -23,6 +23,7 @@
 ### ⌚ Learning Projects
 - Data Structures and Algorithms in Java
   - [DS and Algo Project](https://github.com/BrianDriscollCode/DataStructuresAndAlgorithms/tree/main/src)
+  - [Design Patterns in Java](https://github.com/BrianDriscollCode/DesignPatternsStudy/tree/main/src/main/java/org/example)
 
 <!--
 **BrianDriscollCode/BrianDriscollCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
