@@ -5,6 +5,7 @@
 -----
 - TomoTalk (Japanese Alphabet Learning Application)
   - [Web application with Authentication, authorization, database, Vue Frontend, Java Spring Boot Backend, JPA Entities](https://japanese-character-learner.thankfulhill-561db2f1.westus2.azurecontainerapps.io/)
+  - [Repo](https://github.com/BrianDriscollCode/JapaneseSymbolLearningPLatform/tree/main)
 - VueReference (Vue Documentation and Blogging Website)
   - [Website with blogs, documentation, and email list made in Vue and Nuxt](https://vuereference.com/)
   - [Repo](https://github.com/BrianDriscollCode/Vue-Documentation-Nuxt3-Rebuild)
